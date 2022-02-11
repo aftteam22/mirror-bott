@@ -44,17 +44,17 @@ def stats(update, context):
 @run_async
 def start(update, context):
     start_string = f'''
-Hi {update.message.chat.first_name}, This bot can mirror all your links to Google drive!
+Hi {update.message.chat.first_name}, This bot can mirror all your links to Google drive! Asahan Flasher Team
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
-    update.effective_message.reply_photo("https://telegra.ph/file/7a3896b921c6bda4b213b.jpg", start_string, parse_mode=ParseMode.MARKDOWN)
+    update.effective_message.reply_photo("https://telegra.ph/file/41bdcb4b9ab5f6b895c2a.jpg", start_string, parse_mode=ParseMode.MARKDOWN)
 
 
 @run_async
 def repo(update, context):
     bot.send_message(update.message.chat_id,
     reply_to_message_id=update.message.message_id,
-    text="Repo: https://github.com/projectninjatech/pntbot", disable_web_page_preview=True)
+    text="Repo: https://github.com/aftteam22/pntbot", disable_web_page_preview=True)
 
 
 @run_async

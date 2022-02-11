@@ -1,6 +1,6 @@
-[![Slam](https://telegra.ph/file/7a3896b921c6bda4b213b.jpg)](https://t.me/projectninjatech)
+[![Slam](https://telegra.ph/file/41bdcb4b9ab5f6b895c2a.jpg)](https://t.me/projectninjatech)
 
-<!-- # owner of this repo :- (https://github.com/projectninjatech) -->
+<!-- # owner of this repo :- (https://github.com/aftteam22) -->
 
 # PNT Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -52,7 +52,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/projectninjatech/pntbot
+git clone https://github.com/aftteam22/pntbot
 cd pntbot
 ```
 
